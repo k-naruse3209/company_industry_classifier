@@ -1,0 +1,4 @@
+pandas>=2.2.2
+aiohttp>=3.9.5
+rapidfuzz>=3.9.6
+tenacity>=8.4.1
